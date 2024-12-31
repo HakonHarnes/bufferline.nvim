@@ -1,7 +1,7 @@
 [![CI](https://github.com/akinsho/bufferline.nvim/actions/workflows/ci.yaml/badge.svg)](https://github.com/akinsho/bufferline.nvim/actions/workflows/ci.yaml)
 
 <h1 align="center">
-  bufferline.nvim
+  bufferline.nvim!
 </h1>
 
 <p align="center">A <i>snazzy</i> 💅 buffer line (with tabpage integration) for Neovim built using <b>lua</b>.</p>
